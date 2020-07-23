@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning html, css, JS. Hopefully, I'll get a job in 6 month.
+*learning software development*
+
+🌱 I’m currently learning html, css, JS. Hopefully, I'll get a job in 6 month.
 <!--
 **abisekhsubedi/abisekhsubedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
