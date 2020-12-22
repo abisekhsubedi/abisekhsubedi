@@ -19,7 +19,7 @@ Welcome to my profile! I am an IT graduate working as freelancer, a software dev
 Yes! I do have my own tech youtube channel where I make videos, tutorials and random videos related to software engineering & web.
 
 Check out my channel below! If you love what I do, please consider subscribing.:point_down: <br>
-![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 
 
 <h4 align="left">Languages and Tools I use:</h3>
@@ -33,8 +33,10 @@ Check out my channel below! If you love what I do, please consider subscribing.:
 Thank you for visiting my profile and I'd love to [connect](https://linkedin.com/in/abisekh-subedi-3871841ab)! 
 
 
-If you love to see what I'm up to, I frequent instagram. <br>
+If you love to see what I'm up to, I frequent instagram. :point_right: [insta](https://instagram.com/abisekhsubedi)
+.
+<!--
 [![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&)](https://instagram.com/abisekhsubedi)
 
-
+-->
 
