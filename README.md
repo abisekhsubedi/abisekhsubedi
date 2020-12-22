@@ -32,9 +32,7 @@ Check out my channel below! If you love what I do, please consider subscribing.:
 
 Thank you for visiting my profile and I'd love to [connect](https://linkedin.com/in/abisekh-subedi-3871841ab)! 
 
-
-If you love to see what I'm up to, I frequent instagram. :point_right: [insta](https://instagram.com/abisekhsubedi)
-.
+If you love to see what I'm up to, I frequent instagram. :point_right: [instagram](https://instagram.com/abisekhsubedi).
 <!--
 [![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&)](https://instagram.com/abisekhsubedi)
 
