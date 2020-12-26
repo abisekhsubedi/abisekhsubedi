@@ -12,7 +12,7 @@
 Welcome to my profile! I am an IT graduate working as freelancer, a software developer who is passionate about building application on the web. 
 
 
-- 🌱 I’m currently learning **React** & **java**.
+- 🌱 I’m currently learning Front-end development.
 
 - 😍 My hobbies are Reading and drawing.
 
