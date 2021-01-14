@@ -1,29 +1,31 @@
 
 
-### Hi, I'm [Abisekh](https://abisekhsubedi.github.io) (अभिषेक सुबेदी) :wave: - looking for a job as a Front-end developer in kathmadu, Nepal.
+### Hi, I'm [Abisekh!](https://abisekhsubedi.github.io) :wave:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abisekh-subedi-3871841ab)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abisekhsubedi)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abisekhsubedi8765@gmail.com)
 [![abisekh subedi](https://img.shields.io/badge/website-9146FF?style=for-the-badge&logo=website&logoColor=white)](http://abisekhsubedi.github.io)
 
+Hi, I'm अभिषेक सुबेदी a.k.a Abisekh Subedi, a passionate self-taught front-End web developer from Nepal.
 
+- 🔭 I’m currently working as intern [@rodhidigital]()
+- 🌱 I’m currently learning UI/UX
+- 👯 I’m looking for new chanllenges to improve as developer
+- 💬 Ask me about anything [here](https://linkedin.com/in/abisekh-subedi-3871841ab)
 
-Welcome to my profile! I am an IT graduate working as freelancer, also aspiring software developer who is passionate about building application on the web. 
-
-
-- 🌱 I’m currently learning Front-end development. I'm starting with HTML, CSS & JavaScript.
-
-
-Yes! I do have my own tech youtube channel where I make videos - tutorials and random videos related to software engineering & web.
+I have my own tech youtube channel where I make videos - tutorials videos related to software engineering & web.
 
 Check out my channel below! If you like what I do, please consider subscribing.:point_down: <br>
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 
 
-<h4 align="left">Languages and Tools I'm learing/use:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### Languages and Tools I use
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </p>
 
 
 ----
