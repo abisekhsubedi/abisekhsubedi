@@ -10,7 +10,7 @@
 Hi, I'm अभिषेक सुबेदी a.k.a Abisekh Subedi, a passionate self-taught front-End web developer from Nepal.
 
 - 🔭 I’m currently working as intern [@rodhidigital]()
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning UI/UX & golang
 - 👯 I’m looking for new chanllenges to improve as developer
 - 💬 Ask me about anything [here](https://linkedin.com/in/abisekh-subedi-3871841ab)
 
