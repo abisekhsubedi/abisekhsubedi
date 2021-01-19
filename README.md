@@ -1,6 +1,6 @@
 
 
-## Hi, I'm [Abisekh!](https://abisekhsubedi.github.io) 👋
+### Hi, I'm [Abisekh!](https://abisekhsubedi.github.io) 👋
 
 [<img src="./assets/yt.svg" alt="youtube" width="16px" height="16px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 &nbsp;
@@ -26,11 +26,7 @@ Hi, I'm अभिषेक सुबेदी a.k.a Abisekh Subedi, a passionate
 - 💬 Ask me about anything [here](https://linkedin.com/in/abisekh-subedi-3871841ab)
 
 I have my own tech youtube channel where I make videos - tutorials videos related to software engineering & web. Check out my channel below! If you like what I do, please consider [subscribing](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg).
-
   &nbsp;
-
-
-
 ### Languages and Tools that I use:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30"/> 
@@ -56,11 +52,6 @@ I have my own tech youtube channel where I make videos - tutorials videos relate
   <img src="./assets/f.svg" alt="figma" width="30" height="30"/>
   <img src="./assets/r.svg" alt="react" width="45"/>
 </p>
-
-
-
-&nbsp;
-
 
 Thank you for visiting my profile and I'd love to [connect](https://linkedin.com/in/abisekh-subedi-3871841ab) in linkedin! 
 
