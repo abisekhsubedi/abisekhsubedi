@@ -18,11 +18,11 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abisekhsubedi8765@gmail.com)
 [![abisekh subedi](https://img.shields.io/badge/website-9146FF?style=for-the-badge&logo=website&logoColor=white)](http://abisekhsubedi.github.io) -->
 
-Hi, I'm अभिषेक सुबेदी a.k.a Abisekh Subedi, a passionate self-taught front-End web developer from Nepal.
+Hi, I'm Abisekh Subedi, a passionate front-End web developer from Nepal.
 
 - 🔭 I’m currently working as intern @ [rodhidigital]()
 - 🌱 I’m currently learning UI/UX & ruby
-- 👯 I’m looking for new chanllenges to improve as designer/developer
+- 👯 I’m looking for new challenges to improve as designer/developer
 - 💬 Ask me about anything [here](https://linkedin.com/in/abisekh-subedi-3871841ab)
 
 I have my own tech youtube channel where I make videos - tutorials videos related to software engineering & web. Check out my channel below! If you like what I do, please consider [subscribing](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg).
