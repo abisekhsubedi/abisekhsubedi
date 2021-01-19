@@ -2,15 +2,15 @@
 
 ### Hi, I'm [Abisekh!](https://abisekhsubedi.github.io) 👋
 
-[<img src="./assets/yt.svg" alt="youtube" width="19px" height="19px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
+[<img src="./assets/yt.svg" alt="youtube" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 &nbsp;
-[<img src="./assets/l.svg" alt="linkedin" width="19px" height="19px">](https://linkedin.com/in/abisekh-subedi-3871841ab)
+[<img src="./assets/l.svg" alt="linkedin" width="20px" height="20px">](https://linkedin.com/in/abisekh-subedi-3871841ab)
 &nbsp;
-[<img src="./assets/t.svg" alt="twitter" width="19px" height="19px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
+[<img src="./assets/t.svg" alt="twitter" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 &nbsp;
-[<img src="./assets/gm.svg" alt="gmail" width="19px" height="19px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
+[<img src="./assets/gm.svg" alt="gmail" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 &nbsp;
-[<img src="./assets/github.svg" alt="github" width="19px" height="19px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
+[<img src="./assets/github.svg" alt="github" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 
 <!-- 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abisekh-subedi-3871841ab)
