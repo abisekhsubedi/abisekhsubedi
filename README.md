@@ -20,7 +20,7 @@
 
 Hi, I'm Abisekh Subedi, a passionate front-End web developer from Nepal.
 
-- 🔭 I’m currently working as intern @ [rodhidigital]()
+<!-- - 🔭 I’m currently working [untitled] -->
 - 🌱 I’m currently learning UI/UX & ruby
 - 👯 I’m looking for new challenges to improve as designer/developer
 - 💬 Ask me about anything [here](https://linkedin.com/in/abisekh-subedi-3871841ab)
