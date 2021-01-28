@@ -34,11 +34,11 @@ I have my own tech youtube channel where I make videos - tutorials videos relate
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="30" height="30"/>
   &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="30" height="30"/> 
-  &nbsp;
-  <img src="./assets/go.png" alt="go" height="30">
-  &nbsp;
-  <img src="./assets/ruby.png" alt="ruby" width="" height="30">
-  &nbsp;
+<!--   &nbsp; -->
+<!--   <img src="./assets/go.png" alt="go" height="30"> -->
+<!--   &nbsp; -->
+<!--   <img src="./assets/ruby.png" alt="ruby" width="" height="30"> -->
+<!--   &nbsp; -->
   <img src="./assets/bash.png" alt="bash" width="30" height="30">
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="30" height="30">
