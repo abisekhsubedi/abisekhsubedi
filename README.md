@@ -17,14 +17,7 @@
 &nbsp;
 [<img src="./assets/github.svg" alt="github" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 &nbsp;
-<!-- 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abisekh-subedi-3871841ab)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abisekhsubedi)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abisekhsubedi8765@gmail.com)
-[![abisekh subedi](https://img.shields.io/badge/website-9146FF?style=for-the-badge&logo=website&logoColor=white)](http://abisekhsubedi.github.io) -->
-
 ### Hi, I'm Abisekh Subedi, a front-End web Designer/Developer from Nepal.
-
 <!-- - 🔭 I’m currently working [untitled] -->
 - 🌱 I’m currently learning [UI/UX](https://www.coursera.org/specializations/michiganux) and Front-end development.
 - 🔎 I’m looking for new challenges to improve as a Designer & Developer.
@@ -33,10 +26,10 @@
 
 I have my own YouTube channel where I make videos—tutorials related to design, UI/UX & front-end dev. Also, I do write, occasionally, once a month. Visit my [blog](https://abisekh.ml/blog). <br>
 Check out my channel! If you liked what I did. Please consider [subscribing](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg).
-  &nbsp;
+&nbsp;
+
 ### Languages and Tools that I use:
 <p>
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30"/> 
   &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="30" height="30"/>
@@ -55,16 +48,10 @@ Check out my channel! If you liked what I did. Please consider [subscribing](htt
   &nbsp;
 <img src="./assets/pp.svg" alt="premiere pro" width="30" height="30"/>
   &nbsp;
-
-  
- 
 </p>
 
 Thank you for visiting my profile and I'd love to [connect](https://linkedin.com/in/abisekh-subedi-3871841ab) with you on linkedin! 
 
 If you want to see what I'm up to, I frequent instagram. 👉 [instagram](https://instagram.com/abisekhsubedi).
-<!--
-[![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&)](https://instagram.com/abisekhsubedi)
 
--->
 
