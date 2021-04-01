@@ -5,17 +5,17 @@
 
 [<img src="./assets/l.svg" alt="linkedin" width="20px" height="20px">](https://linkedin.com/in/abisekh-subedi-3871841ab)
 &nbsp;
-[<img src="./assets/dribbble.svg" alt="dribble" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
+[<img src="./assets/dribbble.svg" alt="dribble" width="20px" height="20px">](https://dribbble.com/abiskehsubedi)
 &nbsp;
 [<img src="./assets/yt.svg" alt="youtube" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 &nbsp;
-[<img src="./assets/t.svg" alt="twitter" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
+[<img src="./assets/t.svg" alt="twitter" width="20px" height="20px">](https://twitter.com/abisekhsubedi)
 &nbsp;
 [<img src="./assets/gm.svg" alt="gmail" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 &nbsp;
-[<img src="./assets/in.svg" alt="instagram" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
+[<img src="./assets/in.svg" alt="instagram" width="20px" height="20px">](https://www.instagram.com/subediabisekh/)
 &nbsp;
-[<img src="./assets/github.svg" alt="github" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
+[<img src="./assets/github.svg" alt="github" width="20px" height="20px">]()
 &nbsp;
 ### Hi, I'm Abisekh Subedi, a __Front-End designer/developer__ from Nepal.
 <!-- - 🔭 I’m currently working [untitled] -->
