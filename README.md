@@ -17,7 +17,7 @@
 &nbsp;
 [<img src="./assets/github.svg" alt="github" width="20px" height="20px">](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg)
 &nbsp;
-### Hi, I'm Abisekh Subedi, a `Front-End designer/developer` from Nepal.
+### Hi, I'm Abisekh Subedi, a __Front-End designer/developer__ from Nepal.
 <!-- - 🔭 I’m currently working [untitled] -->
 - 🌱 I’m currently learning [UI/UX](https://www.coursera.org/specializations/michiganux) and Front-end development.
 - 🔎 I’m looking for new challenges to improve as a Designer & Developer.
