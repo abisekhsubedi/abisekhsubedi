@@ -56,14 +56,14 @@ If you want to see what I'm up to, I frequent instagram. ![]() [instagram](https
 
 ### Projects & Design:
 
-<p align="center"> 
+<p align="left"> 
   <img src="./assets/Group 5.png" />
 </p>
 
 
 ### Visitor Counter
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://profile-counter.glitch.me/abisekhsubedi/count.svg" />
 </p>
 
