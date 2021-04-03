@@ -17,7 +17,7 @@
 &nbsp;
 [<img src="./assets/github.svg" alt="github" width="20px" height="20px">]()
 &nbsp;
-### Hi, I'm Abisekh Subedi, a __Front-End designer/developer__ from Nepal.
+### Hi, I'm Abisekh Subedi, a front-end designer from Nepal.
 <!-- - 🔭 I’m currently working [untitled] -->
 - 🌱 I’m currently learning [UI/UX](https://www.coursera.org/specializations/michiganux) and Front-end development.
 - 🔎 I’m looking for new challenges to improve as a Designer & Developer.
@@ -53,5 +53,10 @@ Check out my channel! If you liked what I did. Please consider [subscribing](htt
 Thank you for visiting my profile and I'd love to [connect](https://linkedin.com/in/abisekh-subedi-3871841ab) with you on linkedin! 
 
 If you want to see what I'm up to, I frequent instagram. 👉 [instagram](https://instagram.com/abisekhsubedi).
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/abisekhsubedi/count.svg" />
+</p>
 
 
