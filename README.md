@@ -52,11 +52,21 @@ Check out my channel! If you liked what I did. Please consider [subscribing](htt
 
 Thank you for visiting my profile and I'd love to [connect](https://linkedin.com/in/abisekh-subedi-3871841ab) with you on linkedin! 
 
-If you want to see what I'm up to, I frequent instagram. 👉 [instagram](https://instagram.com/abisekhsubedi).
+If you want to see what I'm up to, I frequent instagram. ![]() [instagram](https://instagram.com/abisekhsubedi).
+
+### Projects & Design:
 
 <p align="center"> 
-  Visitors count<br>
+  <img src="./assets/Group 5.png" />
+</p>
+
+
+### Visitor Counter
+
+<p align="center"> 
   <img src="https://profile-counter.glitch.me/abisekhsubedi/count.svg" />
 </p>
+
+
 
 
