@@ -54,10 +54,6 @@ Thank you for visiting my profile and I'd love to [connect](https://linkedin.com
 
 If you want to see what I'm up to, I frequent instagram. [<img src="./assets/hand.png" alt="bash" width="24">](#) [instagram](https://instagram.com/abisekhsubedi).
 
-### Projects & Design:
-
-[<img src="./assets/Group 5.png">](https://abisekh.ml)
-
 
 ### Visitor Counter
 
