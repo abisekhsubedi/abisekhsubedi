@@ -6,15 +6,15 @@
 [<img src="./assets/l.svg" alt="linkedin" width="20px" height="20px">](https://linkedin.com/in/abisekh-subedi-3871841ab)
 &nbsp;
 [<img src="./assets/dribbble.svg" alt="dribble" width="20px" height="20px">](https://dribbble.com/abiskehsubedi)
-&nbsp;
-[<img src="./assets/t.svg" alt="twitter" width="20px" height="20px">](https://twitter.com/abisekhsubedi)
+<!-- &nbsp; -->
+<!-- [<img src="./assets/t.svg" alt="twitter" width="20px" height="20px">](https://twitter.com/abisekhsubedi) -->
 ### Hi, I'm Abisekh Subedi.
 <!-- - 🔭 I’m currently working [untitled] -->
 - 🌱 I’m currently learning [`UI/UX`](https://www.coursera.org/specializations/michiganux) and [`Front-end development`](https://neog.camp/) .
 - 🔎 I’m looking for new challenges to improve as a Designer & Developer.
-- 💬 Ask me about anything [here](https://linkedin.com/in/abisekh-subedi-3871841ab).
+- 💬 Ask me about anything [`here`](https://linkedin.com/in/abisekh-subedi-3871841ab).
  <!--     - Challenges I do to improve myself, [link](#). -->
-I have my own YouTube channel where I make videos—tutorials related to design, UI/UX & front-end dev.
+<!-- I have my own YouTube channel where I make videos—tutorials related to design, UI/UX & front-end dev. -->
 <!-- Check out my channel! If you liked what I did. Please consider [subscribing](https://www.youtube.com/channel/UCoMd0uAhsbE71riSBX8aiMg). -->
 <!-- &nbsp; -->
 
@@ -40,10 +40,12 @@ I have my own YouTube channel where I make videos—tutorials related to design,
 <!-- <img src="./assets/pp.svg" alt="premiere pro" width="30" height="30"/> -->
   &nbsp;
 </p>
+<!-- [<img src="./assets/hand.png" alt="bash" width="24">](#) -->
 
-Thank you for visiting my profile.
+Thank you for visiting my profile. If you want to see what I'm up to, I frequent [`instagram`](https://instagram.com/abisekhsubedi).
+
 <!--  and I'd love to [connect](https://linkedin.com/in/abisekh-subedi-3871841ab) with you on linkedin!  -->
-If you want to see what I'm up to, I frequent instagram. [<img src="./assets/hand.png" alt="bash" width="24">](#) [instagram](https://instagram.com/abisekhsubedi).
+<!-- If you want to see what I'm up to, I frequent instagram. [<img src="./assets/hand.png" alt="bash" width="24">](#) [instagram](https://instagram.com/abisekhsubedi). -->
 
 
 ### Visitor Counter
