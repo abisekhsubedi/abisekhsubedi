@@ -10,7 +10,7 @@
 <!-- [<img src="./assets/t.svg" alt="twitter" width="20px" height="20px">](https://twitter.com/abisekhsubedi) -->
 ### Hi, I'm Abisekh Subedi.
 <!-- - 🔭 I’m currently working [untitled] -->
-- 🌱 I’m currently learning [`UI/UX`](https://www.coursera.org/specializations/michiganux) and [`Front-end development`](https://neog.camp/) .
+- 🌱 I’m currently learning [`UI/UX`](https://www.coursera.org/specializations/michiganux) and [`Front-end development`](https://www.freecodecamp.org/) .
 - 🔎 I’m looking for new challenges to improve as a Designer & Developer.
 - 💬 Ask me about anything [`here`](https://linkedin.com/in/abisekh-subedi-3871841ab).
  <!--     - Challenges I do to improve myself, [link](#). -->
